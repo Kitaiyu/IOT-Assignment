@@ -1,1 +1,1 @@
-Ổ khóa mật khẩu sử dụng cho Arduino
+Ổ khóa thông minh sử dụng cho Arduino
